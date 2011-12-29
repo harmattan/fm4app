@@ -7,8 +7,8 @@ Standards-Version: 3.7.3
 Homepage: http://thp.io/
 
 Package: fm4app
-Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Architecture: armel
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqtm-11-declarative
 Description: Trackservice, favorite songs and live stream
 XB-Maemo-Display-Name: Radio FM4 App
 XB-Maemo-Icon-26: iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A

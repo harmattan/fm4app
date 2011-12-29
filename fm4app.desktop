@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Radio FM4
-Exec=invoker --single-instance --type=e /opt/fm4app/bin/fm4app
-Icon=/opt/fm4app/fm4app.png
+Exec=/opt/fm4app/bin/fm4app
+Icon=fm4app
 Terminal=false
 Type=Application
 Categories=Audio;
