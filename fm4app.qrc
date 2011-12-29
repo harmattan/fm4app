@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>harmattan.qml</file>
+        <file>FM4App.qml</file>
+        <file>Slider.qml</file>
+        <file>fm4app.js</file>
+        <file>fm4app.png</file>
+        <file>artwork/star_high.png</file>
+        <file>artwork/star_low.png</file>
+        <file>artwork/topbar_small.png</file>
+        <file>artwork/button_play.png</file>
+        <file>artwork/button_stop.png</file>
+        <file>artwork/button_star.png</file>
+        <file>artwork/button_tracks.png</file>
+        <file>artwork/volume_bg.png</file>
+        <file>artwork/volume_fg.png</file>
+        <file>artwork/volume_max.png</file>
+        <file>artwork/volume_min.png</file>
+        <file>artwork/volume_slider.png</file>
+        <file>artwork/corner.png</file>
+        <file>artwork/symbian_close.png</file>
+        <file>artwork/symbian_about.png</file>
+    </qresource>
+</RCC>

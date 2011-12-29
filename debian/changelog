@@ -1,0 +1,17 @@
+fm4app (1.2.0) harmattan; urgency=low
+
+  * Open source release under the GPLv3
+
+ -- Thomas Perl <m@thp.io>  Thu, 29 Dec 2011 21:22:27 +0100
+
+fm4app (1.1.0) harmattan; urgency=low
+
+  * About box with application information
+
+ -- Thomas Perl <m@thp.io>  Tue, 27 Sep 2011 22:59:25 +0200
+
+fm4app (1.0.0) harmattan; urgency=low
+
+  * Initial release
+
+ -- Thomas Perl <m@thp.io>  Sun, 04 Sep 2011 14:00:54 +0200
